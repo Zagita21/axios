@@ -201,5 +201,8 @@
     "example": "examples",
     "lib": "lib",
     "test": "test"
+  },
+  "publishConfig": {
+    "@zagita21:registry": "https://npm.pkg.github.com"
   }
 }
